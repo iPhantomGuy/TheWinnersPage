@@ -1,0 +1,9 @@
+c:\projects\TheWinnersPage\TheWinnersPage\TheWinnersPage\bin\Debug\TheWinnersPage.exe.config
+c:\projects\TheWinnersPage\TheWinnersPage\TheWinnersPage\bin\Debug\TheWinnersPage.exe
+c:\projects\TheWinnersPage\TheWinnersPage\TheWinnersPage\bin\Debug\TheWinnersPage.pdb
+c:\projects\TheWinnersPage\TheWinnersPage\TheWinnersPage\obj\Debug\TheWinnersPage.csprojResolveAssemblyReference.cache
+c:\projects\TheWinnersPage\TheWinnersPage\TheWinnersPage\obj\Debug\TheWinnersPage.Form1.resources
+c:\projects\TheWinnersPage\TheWinnersPage\TheWinnersPage\obj\Debug\TheWinnersPage.Properties.Resources.resources
+c:\projects\TheWinnersPage\TheWinnersPage\TheWinnersPage\obj\Debug\TheWinnersPage.csproj.GenerateResource.Cache
+c:\projects\TheWinnersPage\TheWinnersPage\TheWinnersPage\obj\Debug\TheWinnersPage.exe
+c:\projects\TheWinnersPage\TheWinnersPage\TheWinnersPage\obj\Debug\TheWinnersPage.pdb
