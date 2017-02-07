@@ -1,3 +1,3 @@
-1. Tim
-2. Engin 
-3. Okan
+I created the Git repository on github, and cloned it locally with SourceTree.
+I made a new Windows Form Application project in the repository. 
+
